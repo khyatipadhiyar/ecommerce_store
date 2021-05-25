@@ -1,0 +1,9 @@
+.itemText{
+   display: flex;
+   background: #000;
+   color: #fff;
+   margin: 5px;
+}
+.item{
+    margin:10px;
+}

@@ -1,0 +1,22 @@
+.headerContainer{
+    width: 100%;
+    background-color: #29506D;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    box-shadow: 0 8px 6px -6px black;
+}
+
+.headerText a{
+    color: #fff;
+    text-transform: uppercase;
+    text-decoration: none;
+    letter-spacing: 0.2rem;
+}
+
+.headerIcon{
+    color: #fff;
+    font-size: 2rem;
+}
